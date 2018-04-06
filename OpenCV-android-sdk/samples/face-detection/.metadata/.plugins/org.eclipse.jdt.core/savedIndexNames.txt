@@ -1,2 +1,0 @@
-INDEX VERSION 1.126+C:\Users\gyalcin\workspace\newgame\NewGame\OpenCV-android-sdk\samples\face-detection\.metadata\.plugins\org.eclipse.jdt.core
-1031969898.index
