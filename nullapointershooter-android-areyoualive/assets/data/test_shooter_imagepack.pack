@@ -1,0 +1,148 @@
+
+test_shooter_imagepack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+data/AreYouAlive_RawBG_OFF
+  rotate: false
+  xy: 1, 541
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+data/libgdx
+  rotate: false
+  xy: 1, 27
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+data/social-img
+  rotate: false
+  xy: 515, 414
+  size: 416, 125
+  orig: 416, 125
+  offset: 0, 0
+  index: -1
+data/SpritePootin
+  rotate: false
+  xy: 515, 62
+  size: 320, 350
+  orig: 320, 350
+  offset: 0, 0
+  index: 1
+data/SpriteShot
+  rotate: false
+  xy: 837, 344
+  size: 172, 68
+  orig: 172, 68
+  offset: 0, 0
+  index: -1
+data/SpriteShit
+  rotate: false
+  xy: 837, 64
+  size: 100, 278
+  orig: 100, 278
+  offset: 0, 0
+  index: -1
+data/phone_org
+  rotate: false
+  xy: 939, 247
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+data/extra_menu_off
+  rotate: false
+  xy: 939, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+data/extra_menu_on
+  rotate: false
+  xy: 939, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+data/finger_pulse_off
+  rotate: false
+  xy: 939, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+data/finger_pulse_on
+  rotate: false
+  xy: 803, 941
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+data/heart_pulse_off
+  rotate: false
+  xy: 803, 859
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+data/heart_pulse_on
+  rotate: false
+  xy: 803, 777
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+data/shit_ship
+  rotate: false
+  xy: 803, 640
+  size: 50, 135
+  orig: 50, 135
+  offset: 0, 0
+  index: -1
+data/SpritePooShots
+  rotate: false
+  xy: 855, 678
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: 1
+
+test_shooter_imagepack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+data/AreYouAlive_RawBG_ON
+  rotate: false
+  xy: 1, 483
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+data/poo_tin
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+
+test_shooter_imagepack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+data/menu_seperator
+  rotate: false
+  xy: 1, 16
+  size: 311, 428
+  orig: 311, 428
+  offset: 0, 0
+  index: -1
+data/tom_is_on
+  rotate: false
+  xy: 314, 1
+  size: 260, 443
+  orig: 260, 443
+  offset: 0, 0
+  index: -1
